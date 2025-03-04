@@ -1,0 +1,6 @@
+train: "C:/Users/17450/Documents/graduation_project/yolov8-main/datasets/images/train"  # 训练集文件夹路径
+# val: "D:/ultralytics-main/datasets/belt/val"    # 没有验证集时可以注释掉这一行
+
+nc: 4  # 类别数
+names: ["holothurian", "echinus", "scallop", "starfish"]  # 类别名称列表
+#海参，刺海胆，扇贝，海星
